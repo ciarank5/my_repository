@@ -1,3 +1,7 @@
 import random
 
 def guess(x):
+
+
+
+print(guess(10))
